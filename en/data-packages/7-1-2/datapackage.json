@@ -11,13 +11,32 @@
       "schema": {
         "fields": [
           {
+            "name": "Fuel Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bottled, tank, or LP gas",
+                "Coal or coke",
+                "Electricity",
+                "Fuel oil, kerosene, etc.",
+                "No fuel used",
+                "Other fuel",
+                "Solar energy",
+                "Utility gas",
+                "Wood"
+              ]
+            },
+            "title": "Fuel Type"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
