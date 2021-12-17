@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row><Year>2015</Year><Fuel Type>Utility gas</Fuel Type><Value>57.1</Value></row>
+    <row><Year>2015</Year><Fuel Type>"Bottled, tank, or LP gas"</Fuel Type><Value>3.4</Value></row>
+    <row><Year>2015</Year><Fuel Type>Electricity</Fuel Type><Value>32.5</Value></row>
+    <row><Year>2015</Year><Fuel Type>"Fuel oil, kerosene, etc."</Fuel Type><Value>0.1</Value></row>
+    <row><Year>2015</Year><Fuel Type>Coal or coke</Fuel Type><Value>0</Value></row>
+    <row><Year>2015</Year><Fuel Type>Wood</Fuel Type><Value>1</Value></row>
+    <row><Year>2015</Year><Fuel Type>Solar energy</Fuel Type><Value>0.6</Value></row>
+    <row><Year>2015</Year><Fuel Type>Other fuel</Fuel Type><Value>0.2</Value></row>
+    <row><Year>2015</Year><Fuel Type>No fuel used</Fuel Type><Value>5.2</Value></row>
+    <row><Year>2016</Year><Fuel Type>Utility gas</Fuel Type><Value>57.6</Value></row>
+    <row><Year>2016</Year><Fuel Type>"Bottled, tank, or LP gas"</Fuel Type><Value>3.3</Value></row>
+    <row><Year>2016</Year><Fuel Type>Electricity</Fuel Type><Value>32.1</Value></row>
+    <row><Year>2016</Year><Fuel Type>"Fuel oil, kerosene, etc."</Fuel Type><Value>0.1</Value></row>
+    <row><Year>2016</Year><Fuel Type>Coal or coke</Fuel Type><Value>0</Value></row>
+    <row><Year>2016</Year><Fuel Type>Wood</Fuel Type><Value>0.9</Value></row>
+    <row><Year>2016</Year><Fuel Type>Solar energy</Fuel Type><Value>1</Value></row>
+    <row><Year>2016</Year><Fuel Type>Other fuel</Fuel Type><Value>0.3</Value></row>
+    <row><Year>2016</Year><Fuel Type>No fuel used</Fuel Type><Value>4.7</Value></row>
+    <row><Year>2017</Year><Fuel Type>Utility gas</Fuel Type><Value>58.7</Value></row>
+    <row><Year>2017</Year><Fuel Type>"Bottled, tank, or LP gas"</Fuel Type><Value>3.4</Value></row>
+    <row><Year>2017</Year><Fuel Type>Electricity</Fuel Type><Value>31.4</Value></row>
+    <row><Year>2017</Year><Fuel Type>"Fuel oil, kerosene, etc."</Fuel Type><Value>0.1</Value></row>
+    <row><Year>2017</Year><Fuel Type>Coal or coke</Fuel Type><Value>0</Value></row>
+    <row><Year>2017</Year><Fuel Type>Wood</Fuel Type><Value>0.8</Value></row>
+    <row><Year>2017</Year><Fuel Type>Solar energy</Fuel Type><Value>1.2</Value></row>
+    <row><Year>2017</Year><Fuel Type>Other fuel</Fuel Type><Value>0.3</Value></row>
+    <row><Year>2017</Year><Fuel Type>No fuel used</Fuel Type><Value>4.1</Value></row>
+    <row><Year>2018</Year><Fuel Type>Utility gas</Fuel Type><Value>58.1</Value></row>
+    <row><Year>2018</Year><Fuel Type>"Bottled, tank, or LP gas"</Fuel Type><Value>3.6</Value></row>
+    <row><Year>2018</Year><Fuel Type>Electricity</Fuel Type><Value>31.3</Value></row>
+    <row><Year>2018</Year><Fuel Type>"Fuel oil, kerosene, etc."</Fuel Type><Value>0.1</Value></row>
+    <row><Year>2018</Year><Fuel Type>Coal or coke</Fuel Type><Value>0</Value></row>
+    <row><Year>2018</Year><Fuel Type>Wood</Fuel Type><Value>0.7</Value></row>
+    <row><Year>2018</Year><Fuel Type>Solar energy</Fuel Type><Value>1.5</Value></row>
+    <row><Year>2018</Year><Fuel Type>Other fuel</Fuel Type><Value>0.3</Value></row>
+    <row><Year>2018</Year><Fuel Type>No fuel used</Fuel Type><Value>4.4</Value></row>
+    <row><Year>2019</Year><Fuel Type>Utility gas</Fuel Type><Value>59.7</Value></row>
+    <row><Year>2019</Year><Fuel Type>"Bottled, tank, or LP gas"</Fuel Type><Value>3.2</Value></row>
+    <row><Year>2019</Year><Fuel Type>Electricity</Fuel Type><Value>30.7</Value></row>
+    <row><Year>2019</Year><Fuel Type>"Fuel oil, kerosene, etc."</Fuel Type><Value>0</Value></row>
+    <row><Year>2019</Year><Fuel Type>Coal or coke</Fuel Type><Value>0</Value></row>
+    <row><Year>2019</Year><Fuel Type>Wood</Fuel Type><Value>0.5</Value></row>
+    <row><Year>2019</Year><Fuel Type>Solar energy</Fuel Type><Value>1.5</Value></row>
+    <row><Year>2019</Year><Fuel Type>Other fuel</Fuel Type><Value>0.3</Value></row>
+    <row><Year>2019</Year><Fuel Type>No fuel used</Fuel Type><Value>4.1</Value></row>
+</root>
